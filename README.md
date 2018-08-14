@@ -3,7 +3,6 @@
 > The Official C3 API Documentation
 
 - [https://docs.c3labs.io](https://docs.c3labs.io)
-- [https://ipfs.io/ipns/docs.c3labs.io/](https://ipfs.io/ipns/docs.c3labs.io/)
 
 ## Development
 
